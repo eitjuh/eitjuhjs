@@ -1,0 +1,19 @@
+{
+  "name": "@eitjuhjs/eitjuh",
+  "version": "0.1.0",
+  "description": "Eitjuh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eitjuh/eitjuhjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eitjuh/eitjuhjs/issues"
+  },
+  "homepage": "https://github.com/eitjuh/eitjuhjs#readme"
+}
